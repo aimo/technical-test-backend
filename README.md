@@ -2,7 +2,7 @@
 
 La prueba consistirá en crear un simple API REST para un único recurso, la prueba se dividirá en una funcionalidad básica y en funcionalidades adicionales que sumarán puntos a la evaluación. 
 
-Este repositorio contiene los archivos base, el trabajo realizado debe subirse en un repositorio de Github y debe enviarse el link por email.
+Este repositorio contiene los archivos base, debe hacerse un fork de este repositorio y subir cambios ahi, el link de ese fork debe enviarse por email.
 
 ## 1. Funcionalidad básica
 Se desea un endpoint para poder administrar **notas** (crear y listar), los datos se guardará en una base de datos **sqlite**. Para ello se utilizarán los siguientes paquetes de Python.
